@@ -28,3 +28,7 @@ color_dict = {'ST': 'red', 'CF': 'red', 'LW': 'red', 'RW': 'red',
 ### Returns
 
 This function returns the plot
+
+
+For plot image reference you can go through the link below:-
+https://github.com/commit-live-students/FIFA_guided_project/blob/master/images/q09_plot_poly_regression_chart.png
