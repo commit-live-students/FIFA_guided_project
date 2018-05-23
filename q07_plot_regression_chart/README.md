@@ -30,3 +30,8 @@ line plot of Independent variable(X) and predicted values(y_pred).
 |var4 | numpy.ndarray | Coefficient value computed by model  |
 |var5 | numpy.float64 | Mean absolute error |
 |var6 | numpy.float64 | R-squared |
+
+
+For plot image reference you can go through the link below:-
+
+https://github.com/commit-live-students/FIFA_guided_project/blob/master/images/q07_plot_regression_chart.png
