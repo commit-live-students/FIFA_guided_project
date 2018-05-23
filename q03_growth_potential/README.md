@@ -16,3 +16,6 @@ different variables.
 ### Returns
 - Returns nothing
  
+ For plot image reference you can go through the link below:-
+ https://github.com/commit-live-students/FIFA_guided_project/blob/master/images/q03_growth_potential.png
+ 
